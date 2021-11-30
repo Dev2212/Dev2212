@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My Name Is Vaarun Sinha
 
-<!--
-**Dev2212/Dev2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  Educrypt, Freelance Ecom Project.
+- 🌱 I’m currently learning: JS
+- 👯 I’m looking to collaborate on: Freelancing Projects, Opensource Projects, Startup Ideas.
+- 🤔 I’m looking for help with: JS, UI/UX
+- 💬 Ask me about: Python, Django, HTML, CSS, Discord.py
+- 📫 How to reach me: developervaarun@gmail.com, https://dev.to/vaarun_sinha
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Coding can “power up” your brain.
+- Status:  Always Learning, And Working On Small Projects / Internships, Studying In School
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
