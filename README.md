@@ -24,6 +24,9 @@
 - [How to make a password generator with python.](https://dev.to/vaarun_sinha/how-to-make-a-password-generator-with-python-2b1a)
 <!-- BLOG-POST-LIST:END -->
 
+[![Vaarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev2212)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🏆 Awards:
 - Best Fintech Hack in NextStepHacks 2021.
 - Codedamn Hacktoberfest Winner.
