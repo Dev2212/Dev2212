@@ -30,4 +30,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png"/>
 <img align="left" alt="Python" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png"/>
-<img align="left" alt="Python" width="26px" src="https://i.morioh.com/210715/ff989a40.webp"/>
+<img align="left" alt="Python" width="26px" src="https://i.imgur.com/8ciREEh.jpg"/>
