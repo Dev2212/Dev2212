@@ -17,6 +17,11 @@
 
 ## 📚 Read Some Of My Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Second Hackathon Was Awesome! Here are some tips for a great hackathon.](https://dev.to/vaarun_sinha/my-second-hackathon-was-awesome-here-are-some-tips-for-a-great-hackathon-320m)
+- [Thanks For 100 Followers!](https://dev.to/vaarun_sinha/thanks-for-100-followers-24e8)
+- [Why Conferences Can Be So Important For You, As A Developer.](https://dev.to/vaarun_sinha/why-conferences-can-be-so-important-for-you-as-a-developer-18h8)
+- [What is random.shuffle&lpar;&rpar; method in python? How to use it?](https://dev.to/vaarun_sinha/what-is-randomshuffle-method-in-python-how-to-use-it-57o5)
+- [How to make a password generator with python.](https://dev.to/vaarun_sinha/how-to-make-a-password-generator-with-python-2b1a)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Awards:
