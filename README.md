@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: Freelancing Projects, Opensource Projects, Startup Ideas.
 - 🤔 I’m looking for help with: JS, UI/UX
 - 💬 Ask me about: Python, Django, HTML, CSS, Discord.py
-- 📫 How to reach me: developervaarun@gmail.com, https://dev.to/vaarun_sinha
+<!-- - 📫 How to reach me: developervaarun@gmail.com, https://dev.to/vaarun_sinha -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding can “power up” your brain.
 - Favourite Language: Python
@@ -29,6 +29,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev2212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Connect With Me:
+- 📫 developervaarun@gmail.com
+- Dev.to:  https://dev.to/vaarun_sinha
+- Codepen: https://codepen.io/dev2212
 
 
 ## 🏆 Awards:
