@@ -18,6 +18,8 @@
 ## 🏆 Awards:
 - Best Fintech Hack in NextStepHacks 2021.
 - Codedamn Hacktoberfest Winner.
+- IMUN 56.0 Special Mention
+- IMUN 57.0 Special Mention
 
 ## Languages And Tools:
 
