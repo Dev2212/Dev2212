@@ -24,7 +24,10 @@
 - [How to make a password generator with python.](https://dev.to/vaarun_sinha/how-to-make-a-password-generator-with-python-2b1a)
 <!-- BLOG-POST-LIST:END -->
 
+## Github Stats
 [![Vaarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev2212)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev2212)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 🏆 Awards:
