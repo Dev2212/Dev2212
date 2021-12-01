@@ -15,6 +15,10 @@
 - Favourite Language: Python
 - Status:  Always Learning, And Working On Small Projects / Internships, Studying In School.
 
+## 📚 Read Some Of My Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🏆 Awards:
 - Best Fintech Hack in NextStepHacks 2021.
 - Codedamn Hacktoberfest Winner.
@@ -34,7 +38,4 @@
 <img align="left" alt="Python" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png"/>
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/8ciREEh.jpg"/>
 
-# Read Some Of My Recent Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
