@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on:  Educrypt
 - 🌱 I’m currently learning: JS
-- 👯 I’m looking to collaborate on: Freelancing Projects, Opensource Projects, Startup Ideas.
-- 🤔 I’m looking for help with: JS, UI/UX
+- 👯 I’m looking to collaborate on: Freelancing Projects, Opensource Projects, Startup Ideas. 
 - 💬 Ask me about: Python, Django, HTML, CSS, Discord.py
 <!-- - 📫 How to reach me: developervaarun@gmail.com, https://dev.to/vaarun_sinha -->
 - 😄 Pronouns: He/Him
