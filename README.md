@@ -16,7 +16,7 @@
 
 ## 📚 Read Some Of My Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling errors like a pro in python  with sys.excepthook😎](https://dev.to/vaarun_sinha/handling-errors-like-a-pro-in-python-with-sysexcepthook-25oj)
+- [Handling errors like a pro in python with sys.excepthook😎](https://dev.to/vaarun_sinha/handling-errors-like-a-pro-in-python-with-sysexcepthook-25oj)
 - [The Art Of Asking Good Questions](https://dev.to/vaarun_sinha/the-art-of-asking-good-questions-lkd)
 - [My first hackathon went horribly wrong!](https://dev.to/vaarun_sinha/my-first-hackathon-went-horribly-wrong-3hkn)
 - [My Second Hackathon Was Awesome! Here are some tips for a great hackathon.](https://dev.to/vaarun_sinha/my-second-hackathon-was-awesome-here-are-some-tips-for-a-great-hackathon-320m)
