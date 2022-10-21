@@ -32,6 +32,7 @@
 
 
 ## 🏆 Awards:
+- Second runner up - HPE All India Hackathon Junior Edition
 - Best Fintech Hack in NextStepHacks 2021.
 - Codedamn Hacktoberfest Winner.
 - IMUN 56.0 Special Mention
