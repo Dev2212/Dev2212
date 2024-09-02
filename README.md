@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaarunsinha" alt="vaarunsinha" /></a> </p>
 
-- 🔭 I’m currently working on **Vignaharata : Open source Geospatial testing tool**
 
 - 🌱 I’m currently learning **Ethical Hacking**
-
-- 🤝 I’m looking for help with **Geo distributed spatial testing**
 
 - 📝 I regularly write articles on [https://dev.to/vaarun_sinha](https://dev.to/vaarun_sinha)
 
